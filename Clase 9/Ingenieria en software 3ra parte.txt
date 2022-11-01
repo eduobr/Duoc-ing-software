@@ -1,0 +1,5 @@
+-Programacion
+-Trazabilidad (Matriz)
+-Presupuesto------->Simple Tip/Var
+-Auditoria (Pruebas)
+-Presentacion SW (Producto) Terminados

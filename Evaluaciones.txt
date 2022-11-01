@@ -1,0 +1,15 @@
+Control 29/03
+
+Evaluacion Tema Requerimientos(Levantamiento de Requerimientos 
+y documentacion), ciclo de vida, iso 9001 - 9006 01/04
+
+1-Informe 1/04(Portada, indice, Introduccion Resumen ejecutivo, implementacion cilo de vida, 
+plantilla requerimientos, anexo (carta gantt, acta de reuniones), roles)
+2-Especificaciones RF y RNF
+3-Carta Gannt
+4-Actas de Reuniones
+
+ppt requerimientos
+ciclo de vida 
+prueba individual 29/03
+
